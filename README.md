@@ -67,7 +67,7 @@ Includes local examples, art, and culture from North-Eastern states to build rel
 
 ![about Page](about.png)
 
-![feedback Page](peedback.png)
+![feedback Page](feedback.png)
 
 ## Developed By
 
