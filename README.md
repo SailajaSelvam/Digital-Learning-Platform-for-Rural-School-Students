@@ -49,7 +49,7 @@ Includes local examples, art, and culture from North-Eastern states to build rel
 
 ---
 ## Screenshots 
-![Home Page](assets/images/homepage.png)![Uploading image.png…]()
+![Home Page](homepage.png)
 
 
 ## Developed By
