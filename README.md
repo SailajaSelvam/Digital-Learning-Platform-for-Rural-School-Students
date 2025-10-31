@@ -42,18 +42,21 @@ Includes local examples, art, and culture from North-Eastern states to build rel
 | **AI chatbot** | Chatbot integration using Python APIs |
 
 ## System Modules
-    Student Module — Access quizzes, videos, and offline lessons.
-    Teacher Dashboard — Track student progress, upload study material, and view analytics.
-    Admin Panel (Future) — Manage content, users, and school data.
-    Survey & Feedback Section — Collect insights from users for continuous improvement.
+    1. Student Module — Access quizzes, videos, and offline lessons.
+    2. Teacher Dashboard — Track student progress, upload study material, and view analytics.
+    3. Admin Panel (Future) — Manage content, users, and school data.
+    4. Survey & Feedback Section — Collect insights from users for continuous improvement.
 
 ---
+## Screenshots 
+![Home Page](assets/images/homepage.png)![Uploading image.png…]()
+
 
 ## Developed By
 
-Team Name: [InspiraX]
-Developer: Sailaja S
-Hackathon: Smart India Hackathon (SIH) 2025
-Problem Statement ID: 25019
-Theme: Digital Learning and Education Accessibility
-Region Focus: North-Eastern States of India
+## Team Name: [InspiraX]
+## Developer: Sailaja S
+## Hackathon: Smart India Hackathon (SIH) 2025
+## Problem Statement ID: 25019
+## Theme: Digital Learning and Education Accessibility
+## Region Focus: North-Eastern States of India
