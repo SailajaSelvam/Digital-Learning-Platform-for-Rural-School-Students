@@ -49,8 +49,25 @@ Includes local examples, art, and culture from North-Eastern states to build rel
 
 ---
 ## Screenshots 
-![Home Page](homepage.png)
+![Home Page](homepage.png) 
 
+![Quiz Page](quiz.png)
+
+![puzzle Page](puzzle.png)
+
+![teacher dashboard Page](teacher1.png)
+
+![teacher dashboard Page](teacher2.png)
+
+![surveys Page](surveys.png)
+
+![chart Page](chart.png)
+
+![gallery Page](gallery.png)
+
+![about Page](about.png)
+
+![feedback Page](peedback.png)
 
 ## Developed By
 
